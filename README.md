@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/R9dj_bot"><img alt="Contact on Telegram" src="https://img.shields.io/badge/Launch_your_store-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/EXModder"><img alt="Contact on Telegram" src="https://img.shields.io/badge/Launch_your_store-@EXModder-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://store.cryp7ic.top"><img alt="Live demo" src="https://img.shields.io/badge/live-store.cryp7ic.top-ff2e4d?style=for-the-badge"></a>
 </p>
 
@@ -40,7 +40,8 @@ Sell digital products under **your own brand** without building anything.
 - 🔌 **Reseller REST API with webhooks** if you'd rather plug into your own system
 
 <p align="center">
-  <a href="https://t.me/R9dj_bot"><b>Message us on Telegram to get started →</b></a>
+  <a href="https://t.me/EXModder"><b>Message @EXModder on Telegram to get started →</b></a><br>
+  <sub>Want to see it first? Try the live store bot: <a href="https://t.me/R9dj_bot">@R9dj_bot</a></sub>
 </p>
 
 ---
@@ -88,7 +89,7 @@ Sell digital products under **your own brand** without building anything.
 - لوحة تحكم للطلبات والمخزون والدعم
 - يدعم العربية والإنجليزية
 
-**تواصل معنا على تيليجرام: [@R9dj_bot](https://t.me/R9dj_bot)**
+**تواصل معنا على تيليجرام: [@EXModder](https://t.me/EXModder)**
 
 </div>
 
